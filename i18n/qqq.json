@@ -1,0 +1,6 @@
+{
+	"@metadata": {
+		"authors": ["HashJona"]
+	},
+	"cachebuster-desc": "Description of the CacheBuster extension shown in [[Special:Version]]. The extension name 'CacheBuster' should not be translated."
+}

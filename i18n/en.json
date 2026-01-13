@@ -1,0 +1,6 @@
+{
+	"@metadata": {
+		"authors": ["HashJona"]
+	},
+	"cachebuster-desc": "Cache busting extension with automatic versioning based on file modification timestamp."
+}

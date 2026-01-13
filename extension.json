@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "CacheBuster",
+	"version": "1.0.0",
+	"author": ["HashJona"],
+	"url": "https://github.com/hashjona/mediawiki-extension-CacheBuster",
+	"descriptionmsg": "cachebuster-desc",
+	"license-name": "MIT",
+	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.43.0"
+	},
+	"MessagesDirs": {
+		"CacheBuster": ["i18n"]
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\CacheBuster\\": "includes/"
+	},
+	"ResourceModules": {}
+}
