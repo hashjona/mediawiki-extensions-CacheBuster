@@ -3,7 +3,7 @@
 	"name": "CacheBuster",
 	"version": "1.0.0",
 	"author": ["HashJona"],
-	"url": "https://github.com/hashjona/mediawiki-extension-CacheBuster",
+	"url": "https://github.com/hashjona/mediawiki-extensions-CacheBuster",
 	"descriptionmsg": "cachebuster-desc",
 	"license-name": "MIT",
 	"type": "other",
